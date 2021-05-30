@@ -1,11 +1,7 @@
-### Hi there 👋
-
-🔭 I’m currently working on my E-Commerce Startup - Hexlen.com <br/>
-🌱 I’m currently learning the MERN Stack, AI, and C/C++ game development. <br/>
-👯 I’m looking to collaborate on LAMP, MERN, Linux, and AI related projects. <br/>
-🤔 I’m looking for help with LAMP, MERN, Linux, and AI related projects. <br/>
-📫 How to reach me: slekupvimplyrataqq@protonmail.com <br/>
-
-<!-- For Image
-![Algorithm schema](./images/schema.jpg)
--->
+### ✨ Shannon A. New Zealand ✨
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true" />
+</a>
