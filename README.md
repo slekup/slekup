@@ -1,16 +1,22 @@
-<h1 align="center"> ✨ Shannon A. New Zealand <img src="https://img.shields.io/github/followers/shannon-nz.svg?style=social&label=Follow&maxAge=2592000"> ✨ </h1>
+<h1 align="center"> ✨ Shannon A. New Zealand ✨ </h1>
+
 <p align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
 	<img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg">
 	<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=blue-green" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=blue-green" />
-</a>
+<p align="center">
+	<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=shannon-nz&theme=dark" alt="shannon-nz" />
+</p>
+<p align="center"
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" />
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+	  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=dark" />
+	</a>
+</p>
 
 
 ### Skills
@@ -48,7 +54,7 @@
 	<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 						 
-### Contact Me
+### Contact
 <p>
   <a href="mailto:slekupvimplyrataqq@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
@@ -57,5 +63,11 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-																																																				 
+
+### Links
+<p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
+<p><b>Upcoming Profile Website:</b> <a href="shannon-nz.rf.gd">shannon-nz.rf.gd</a> or <a href="shannon-nz.github.io">shannon-nz.github.io</a></p>
+<p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com">hexlen.com</a></p>
+<p><i>I may add more details in a few days :)</i></p>
+<!-- <p><b>:</b> </p> -->
 																																																				 
