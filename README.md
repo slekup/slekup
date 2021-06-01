@@ -1,4 +1,4 @@
-# ✨ Shannon A. New Zealand <img src="https://img.shields.io/github/followers/shannon-nz.svg?style=social&label=Follow&maxAge=2592000"> ✨
+<h1 align="center"> ✨ Shannon A. New Zealand <img src="https://img.shields.io/github/followers/shannon-nz.svg?style=social&label=Follow&maxAge=2592000"> ✨ </h1>
 <p>
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
 	<img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg">
