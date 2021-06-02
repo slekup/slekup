@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannon-nz&theme=dark" alt="shannon-nz" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" alt="shannon-nz" />
 </p>
 <!-- 
 <p align="center"
