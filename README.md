@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ Shannon A. New Zealand ✨ </h1>
+<h1 align="center">Shannon A. New Zealand</h1>
 
 <p align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=shannon-nz&theme=dark" alt="shannon-nz" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=shannon-nz&theme=dark" alt="shannon-nz" />
 </p>
 <!-- 
 <p align="center"
@@ -19,7 +19,8 @@
 	</a>
 </p>
  -->
-
+ 
+<!--
 ### Skills
 <p>
 	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -38,7 +39,6 @@
 	<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 	<img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 	<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-	<!--<img src="">-->
 </p>
 
 ### Learning / To Learn
@@ -64,11 +64,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+-->
+<h2>Links</h2>
 
-### Links
 <p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
-<p><b>Upcoming Profile Website:</b> <a href="shannon-nz.rf.gd">shannon-nz.rf.gd</a> or <a href="shannon-nz.github.io">shannon-nz.github.io</a></p>
-<p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com">hexlen.com</a></p>
-<p><i>I may add more details in a few days :)</i></p>
-<!-- <p><b>:</b> </p> -->
+<p><b>Profile Website (In progress):</b> <a href="shannon-nz.github.io">shannon-nz.github.io</a></p>
+<p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com">Hexlen.com</a></p>
 																																																				 
