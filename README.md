@@ -68,6 +68,6 @@
 <h2>Links</h2>
 
 <p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
-<p><b>Profile Website (In progress):</b> <a href="shannon-nz.github.io">shannon-nz.github.io</a></p>
+<p><b>Profile Website (In progress):</b> <a href="https://shannon-nz.github.io">shannon-nz.github.io</a></p>
 <p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com">Hexlen.com</a></p>
 																																																				 
