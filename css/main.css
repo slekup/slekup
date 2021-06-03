@@ -1,5 +1,5 @@
 :root{
-	--c1: #FF7B2D;
+	--c1: #2E598D;
 }
 
 *{
@@ -13,32 +13,18 @@ html{
 }
 
 body {
+  position: absolute;
 	margin: 0;
   padding: 0;
-	height: 100%;
+	min-height: 100%;
 	width: 100%;
-  background: #000;
-	color: #fff;
+  background: #fff;
   overflow-x: hidden;
   overflow-y: scroll;
 }
 
 .title{
   color: var(--c1);
-}
-
-.page-background{
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: url('/shannon-nz/media/tech-background.jpg') no-repeat center center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: -1;
-  opacity: .3;
-  will-change: transform;
 }
 
 .default-link{
@@ -54,6 +40,7 @@ body {
 
 nav{
 	position: fixed;
+  background: #fff;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -84,15 +71,14 @@ nav .root{
 	font-size: 20px;
 	padding: 5px 5px;
   margin: 0 5px;
-	color: rgba(255,255,255,.7);
+	color: #000;
 	border-bottom: 3px solid transparent;
 	cursor: pointer;
 	transition: .3s;
 }
 
 .nav-links a:hover{
-	color: #fff;
-	border-color: rgba(255,255,255,.3);
+	color: #000;
 }
 
 .nav-links .active{
@@ -106,20 +92,24 @@ main{
 }
 
 main .root{
+  opacity: 0;
 	max-width: 1000px;
 	width: 90%;
 	margin: 0 auto;
   padding: 100px 0;
+  transition: .3s;
+  will-change: contents;
 }
 
 .index-banner{
-	padding-top: 10%;
+	padding-top: 0;
 	display: flex;
 }
 
 .index-banner img{
-	width: 40%;
-	margin: 0 0 0 10%;
+	width: 350px;
+	margin: 5% 0 0 50%;
+  border-radius: 10px;
 }
 
 .index-banner .text-content{
@@ -128,7 +118,7 @@ main .root{
 }
 
 .index-banner h1:first-of-type{
-	color: #ccc;
+	color: #444;
 	font-size: 40px;
 }
 
@@ -217,10 +207,13 @@ main .root{
 .faq-box{
   position: relative;
   width: 100%;
-  background: rgba(255,255,255,.05);
-  border-bottom: 1px solid #444;
   margin: 0;
   max-height: 50px;
+}
+
+.faq-box{
+  background: rgba(255,255,255,.05);
+  border-bottom: 1px solid #444;
   overflow: hidden;
   transition: .6s ease;
 }
@@ -231,7 +224,7 @@ main .root{
   background: rgba(255,255,255,.02);
   padding: 0 15px;
   border: none;
-  color: #fff;
+  color: #000;
   cursor: pointer;
   transition: .3s;
   display: flex;
@@ -258,7 +251,6 @@ main .root{
   background: rgba(255,255,255,.15);
 }
 
-
 .faq-answer{
   padding: 0 20px;
   font-weight: 100;
@@ -268,8 +260,6 @@ main .root{
 .faq-open-indicator{
 	transition: .5s;
 }
-
-
 
 .social-links-container{
 	text-align: center;
@@ -286,12 +276,12 @@ main .root{
 	padding: 10px;
 	margin: 0 5px;
 	border-radius: 50%;
-	background: rgba(255,255,255,.1);
+  box-shadow: 0 2px 10px rgba(0,0,0,.4);
   transition: .3s;
 }
 
 .social-links a:hover{
-  background: rgba(255,255,255,.3);
+  box-shadow: 0 3px 15px rgba(0,0,0,.5);
 }
 
 .social-links a img{
@@ -300,7 +290,10 @@ main .root{
 
 
 footer{
-	background: rgba(0,0,0,.3);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  box-shadow: 0 -5px 10px rgba(0,0,0,.3);
 	padding: 1px;
 }
 

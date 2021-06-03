@@ -41,13 +41,14 @@ if(jQuery.inArray(get_url()[1], pages_arr) >= 0){
 
 // Script that runs after the content has loaded
 function defaultScript(page){
+  $('main .root').css({'opacity':'1'})
   $(document).attr('title','Shannon A | '+page.charAt(0).toUpperCase()+page.slice(1));
 
   var $w = $(window).scroll(function(){
     if ( $w.scrollTop() > 150 ) {
-       $('nav').css({'background':'rgba(4, 4, 17,.9)','box-shadow':'0 3px 8px rgba(0,0,0,.2)'})
+       $('nav').css({'box-shadow':'0 5px 10px rgba(0,0,0,.2)'})
     } else {
-       $('nav').css({'background':'transparent','box-shadow':'none'})
+       $('nav').css({'box-shadow':'none'})
     }
     localStorage.setItem('scrollpoint',$w.scrollTop())
   });
@@ -55,11 +56,10 @@ function defaultScript(page){
   $('body').scrollTop(1000)
 
   if ( $w.scrollTop() > 150 ) {
-     $('nav').css({'background':'rgba(4, 4, 17,.9)','box-shadow':'0 3px 8px rgba(0,0,0,.2)'})
+     $('nav').css({'box-shadow':'0 5px 10px rgba(0,0,0,.2)'})
   } else {
-     $('nav').css({'background':'transparent','box-shadow':'none'})
+     $('nav').css({'box-shadow':'none'})
   }
-
 
   $('.nav-placeholder').html(`
     <div class="root">
