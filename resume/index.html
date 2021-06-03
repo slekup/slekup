@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Shannon A | Resume</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Shannon's Profile Website 2021.">
+    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, SQL">
+    <meta name="author" content="Shannon A">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+     <script>
+      var startTime = (new Date()).getTime();
+       window.onload = function() {
+            var endTime = (new Date()).getTime();
+            var millisecondsLoading = endTime - startTime;
+            console.log('Load Time: '+millisecondsLoading+'ms')
+
+            $.getScript('/js/main.js')
+       };
+    </script>
+  </head>
+  <body>
+
+    <div class="page-background"></div>
+    
+    <nav>
+     <div class="root">
+        <div class="nav-title">
+          <a href=".">Shannon A</a>
+        </div>
+        <div class="nav-links">
+          <a href=".">Home</a>
+          <a href="/blog">Blog</a>
+          <a href="/projects">Projects</a>
+          <a href="/contact">Contact</a>
+          <a href="/resume">Résumé</a>
+        </div>
+     </div>
+    </nav>
+
+    <main>
+      <div class="root">
+        
+
+      </div>
+
+
+
+    </main>
+
+
+    <footer>
+      <div class="root">
+        <p>Copyright &copy; Shannon A 2021 - <a href="/credits" class="default-link">View images credits</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

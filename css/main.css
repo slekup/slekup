@@ -1,0 +1,313 @@
+:root{
+	--c1: #FF7B2D;
+}
+
+*{
+	font-family: Calibri, Arial, sans-serif;
+	box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+  margin: 0;
+}
+
+body {
+	margin: 0;
+  padding: 0;
+	height: 100%;
+	width: 100%;
+  background: #000;
+	color: #fff;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.title{
+  color: var(--c1);
+}
+
+.page-background{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/shannon-nz/media/tech-background.jpg') no-repeat center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: -1;
+  opacity: .3;
+  will-change: transform;
+}
+
+.default-link{
+  text-decoration: none;
+  color: var(--c1);
+  transition: .3s;
+  border-bottom: 1px solid transparent;
+}
+
+.default-link:hover{
+  border-color: var(--c1);
+}
+
+nav{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 70px;
+  z-index: 3;
+  transition: .5s;
+}
+
+nav .root{
+	width: 95%;
+	margin: 22px auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.nav-title a{
+  text-decoration: none;
+  display: inline-block;
+	margin: -8px 0 10px 0;
+	font-size: 35px;
+	font-weight: 500;
+	color: var(--c1);
+}
+
+.nav-links a{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 5px 5px;
+  margin: 0 5px;
+	color: rgba(255,255,255,.7);
+	border-bottom: 3px solid transparent;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.nav-links a:hover{
+	color: #fff;
+	border-color: rgba(255,255,255,.3);
+}
+
+.nav-links .active{
+	color: var(--c1);
+	border-color: var(--c1);
+}
+
+main{
+	position: relative;
+	margin: 0 auto;
+}
+
+main .root{
+	max-width: 1000px;
+	width: 90%;
+	margin: 0 auto;
+  padding: 100px 0;
+}
+
+.index-banner{
+	padding-top: 10%;
+	display: flex;
+}
+
+.index-banner img{
+	width: 40%;
+	margin: 0 0 0 10%;
+}
+
+.index-banner .text-content{
+	width: 50%;
+	margin-top: 5%;
+}
+
+.index-banner h1:first-of-type{
+	color: #ccc;
+	font-size: 40px;
+}
+
+.index-banner h1{
+	font-weight: 500;
+	font-size: 60px;
+	margin: 20px 0;
+}
+
+.index-banner h3{
+	font-weight: 500;
+	font-size: 30px;
+}
+
+.wave-icon{
+	display: inline-block;
+	margin: 0 10px;
+	animation: waveani1 1s ease infinite;
+}
+
+@keyframes waveani1 {
+	0% {transform: rotate(50deg);}
+	50% {transform: rotate(0deg) translate(-10px,0);}
+	100% {transform: rotate(50deg);}
+}
+
+.type-writer-effect-container{
+  display: flex;
+  justify-content: flex-start;
+  text-align: left;
+  position: relative;
+  color: var(--c1);
+}
+
+.typewriter h3 {
+  overflow: hidden;
+  border-right: 3px solid var(--c1);
+  padding-right: 3px;
+  white-space: nowrap;
+  margin: 0;
+  animation:
+    typing 6s steps(33) infinite,
+    blink-caret .7s ease infinite;
+}
+
+@keyframes typing {
+  0% {width: 0;}
+  40% {width: 100%;}
+  60% {width: 100%;}
+  100% {width: 0;}
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: var(--c1) }
+}
+
+.about-me-container{
+	padding-top: 50px;
+	margin-top: 20%;
+}
+
+.faq-container{
+  padding-top: 50px;
+  margin-top: 0%;
+}
+
+.default-content-container .title{
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 30px;
+}
+
+.default-content-container .main-content{
+	font-size: 17px;
+}
+
+
+.faq-boxes{
+  width: 100%;
+  display: flex;
+  flex-direction: columns;
+  flex-wrap: wrap;
+}
+
+.faq-box{
+  position: relative;
+  width: 100%;
+  background: rgba(255,255,255,.05);
+  border-bottom: 1px solid #444;
+  margin: 0;
+  max-height: 50px;
+  overflow: hidden;
+  transition: .6s ease;
+}
+
+.faq-question{
+  width: 100%;
+  text-align: left;
+  background: rgba(255,255,255,.02);
+  padding: 0 15px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  transition: .3s;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+  height: 50px;
+}
+
+.faq-question h1{
+  margin: -8px 0 0 0;
+}
+
+.faq-question .question{
+  font-weight: 500;
+  font-size: 18px;
+  margin: -2px 0 0 0;
+}
+
+.faq-question:hover{
+  background: rgba(255,255,255,.05);
+}
+
+.faq-question:focus{
+  background: rgba(255,255,255,.15);
+}
+
+
+.faq-answer{
+  padding: 0 20px;
+  font-weight: 100;
+  font-size: 17px;
+}
+
+.faq-open-indicator{
+	transition: .5s;
+}
+
+
+
+.social-links-container{
+	text-align: center;
+}
+
+.social-links{
+	display: flex;
+	justify-content: center;
+}
+
+.social-links a{
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+	margin: 0 5px;
+	border-radius: 50%;
+	background: rgba(255,255,255,.1);
+  transition: .3s;
+}
+
+.social-links a:hover{
+  background: rgba(255,255,255,.3);
+}
+
+.social-links a img{
+	height: 30px;
+}
+
+
+footer{
+	background: rgba(0,0,0,.3);
+	padding: 1px;
+}
+
+footer .root{
+	max-width: 1000px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+
