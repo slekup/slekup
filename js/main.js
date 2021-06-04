@@ -190,7 +190,6 @@ function defaultScript(page){
 
       $(".copy-value-p-"+$(this).attr('data-num')).select();
       document.execCommand('copy');
-      $(".copy-value-p-"+$(this).attr('data-num')).unselect();
       $(this).html('Copied!')
       $(this).css('background','lightgreen')
     });

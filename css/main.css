@@ -23,6 +23,11 @@ body {
   overflow-y: scroll;
 }
 
+::selection{
+  background: var(--c1);
+  color: #fff;
+}
+
 .title{
   color: var(--c1);
 }
