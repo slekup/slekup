@@ -21,6 +21,10 @@
 }
 
 .project-box{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
   width: 48%;
   margin: 1%;
   height: auto;
@@ -102,4 +106,5 @@
 .project-links{
   display: flex;
   justify-content: space-between;
+  padding: 20px 0 0 0;
 }
