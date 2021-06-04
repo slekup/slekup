@@ -36,6 +36,7 @@ var p_startTime;
 function loadPage(page){
   p_startTime = (new Date()).getTime();
   $('main .root').html('loading')
+  $('head').append('<link rel="stylesheet" type="text/css" href="/shannon-nz/css/'+page+'.css">')
   $('main .root').load('/shannon-nz/load/'+page+'.html', defaultScript(page));
 }
 
@@ -76,6 +77,32 @@ function defaultScript(page){
      $('nav').css({'box-shadow':'none'})
   }
 
+  var page_links;
+  if(page == 'home'){
+    page_links = `
+      <a href="javascript:void(0)"><b>On This Page:</b></a>
+      <a href="#sec-top">Top</a>
+      <a href="#sec-pages">Pages</a>
+      <a href="#sec-about">About Me</a>
+      <a href="#sec-faq">FAQ</a>
+      <a href="#sec-links">Links</a>
+    `;
+  } else if(page == 'blog'){
+    page_links = `
+      <a href="javascript:void(0)"><b>On This Page:</b></a>
+      <a href="#sec-recent-blogs">Recent Blogs</a>
+      <a href="#sec-popular-blogs">Popular Blogs</a>
+      <a href="#sec-request-blog">Popular Blogs</a>
+    `;
+  } else if(page == 'projects'){
+
+  } else if(page == 'contact'){
+
+  } else if(page == 'resume'){
+
+  }
+  
+
   $('.nav-placeholder').html(`
     <div class="root">
       <div class="top-nav">
@@ -91,11 +118,9 @@ function defaultScript(page){
         </div>
       </div>
       <div class="bottom-nav">
-          <a href="#sec-top">Top</a>
-          <a href="#sec-pages">Pages</a>
-          <a href="#sec-about">About Me</a>
-          <a href="#sec-faq">FAQ</a>
-          <a href="#sec-links">Links</a>
+        <div id="page-links">
+          `+page_links+`
+          </div>
         </div>
     </div>
   `);

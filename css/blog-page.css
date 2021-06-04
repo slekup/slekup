@@ -4,6 +4,12 @@
 	color: #555;
 }
 
+.blog-date{
+  color: #aaa;
+  font-size: 15px;
+  margin: 0;
+}
+
 .blog-title{
 	margin: 0;
 	color: #000;
@@ -37,17 +43,19 @@
 	filter: brightness(1.5);
 }
 
-.blog-date{
-	color: #aaa;
-	font-size: 15px;
-	margin: 0;
+.blog-description p{
+  font-size: 30px;
 }
+
+
+
+
 
 .line{
 	height: 1px;
 	width: 200px;
 	background: #bbb;
-	margin: 20px auto;
+	margin: 30px auto;
 }
 
 .blog-section{
@@ -59,4 +67,10 @@
 	color: var(--c1);
 	font-weight: 500;
 	font-size: 35px;
+  margin: 0;
+  padding: 50px 0 0 0;
+}
+
+.section-paragraph{
+  font-size: 20px;
 }
