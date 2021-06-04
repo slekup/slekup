@@ -1,0 +1,49 @@
+.back-to-blogs{
+	cursor: pointer;
+	margin: 0;
+	color: #555;
+}
+
+.blog-title{
+	margin: 0;
+	color: #000;
+	text-align: center;
+	font-weight: 500;
+}
+
+.blog-tags{
+	display: inline-block;
+	display: flex;
+	padding: 5px 0;
+}
+
+.blog-tags p{
+	text-decoration: none;
+	padding: 5px 8px;
+	margin: 2px;
+	font-size: 13px;
+	border-radius: 30px;
+	background: #0055E1;
+	color: #fff;
+}
+
+.blog-tags p:first-of-type{
+	margin-left: 0;
+}
+
+.blog-tags p:hover{
+	filter: brightness(1.5);
+}
+
+.blog-date{
+	color: #aaa;
+	font-size: 15px;
+	margin: 0;
+}
+
+.line{
+	height: 1px;
+	width: 200px;
+	background: #bbb;
+	margin: 20px auto;
+}

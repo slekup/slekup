@@ -12,10 +12,17 @@ function s_url(){
 function add_url(url, num){
   if(num == 1){
     add_url(url);
+  } else if(num == 2){
+
+    var new_url=window.location.href+'&sub='+url;
+    window.history.pushState("data","Title",new_url);
+    localStorage.setItem('url',window.location.href);
+
   } else {
     var new_url=s_url()+'?tab='+url;
     window.history.pushState("data","Title",new_url);
     localStorage.setItem('url',window.location.href);
+
   }
 }
 
@@ -24,8 +31,10 @@ function url_imp(){
 }
 url_imp();
 
+var p_startTime;
 
 function loadPage(page){
+  p_startTime = (new Date()).getTime();
   $('main .root').html('loading')
   $('main .root').load('/shannon-nz/load/'+page+'.html', defaultScript(page));
 }
@@ -40,7 +49,13 @@ if(jQuery.inArray(get_url()[1], pages_arr) >= 0){
 }
 
 // Script that runs after the content has loaded
+//
+//
+//
 function defaultScript(page){
+  var endTime = (new Date()).getTime();
+  var millisecondsLoading = endTime - p_startTime;
+  console.log('Load Time for "'+page+'": '+millisecondsLoading+'ms')
   $('main .root').css({'opacity':'1'})
   $(document).attr('title','Shannon A | '+page.charAt(0).toUpperCase()+page.slice(1));
 
@@ -63,16 +78,25 @@ function defaultScript(page){
 
   $('.nav-placeholder').html(`
     <div class="root">
-      <div class="nav-title">
-        <a href="/shannon-nz/" class="open-page-btn" data-page="home">Shannon A</a>
+      <div class="top-nav">
+        <div class="nav-title">
+          <a href="/shannon-nz/" class="open-page-btn" data-page="home">Shannon A</a>
+        </div>
+        <div class="nav-links">
+          <a href="javascript:void(0)" class="open-page-btn" data-page="home">Home</a>
+          <a href="javascript:void(0)" class="open-page-btn" data-page="blog">Blog</a>
+          <a href="javascript:void(0)" class="open-page-btn" data-page="projects">Projects</a>
+          <a href="javascript:void(0)" class="open-page-btn" data-page="contact">Contact</a>
+          <a href="javascript:void(0)" class="open-page-btn" data-page="resume">Résumé</a>
+        </div>
       </div>
-      <div class="nav-links">
-        <a href="javascript:void(0)" class="open-page-btn" data-page="home">Home</a>
-        <a href="javascript:void(0)" class="open-page-btn" data-page="blog">Blog</a>
-        <a href="javascript:void(0)" class="open-page-btn" data-page="projects">Projects</a>
-        <a href="javascript:void(0)" class="open-page-btn" data-page="contact">Contact</a>
-        <a href="javascript:void(0)" class="open-page-btn" data-page="resume">Résumé</a>
-      </div>
+      <div class="bottom-nav">
+          <a href="#sec-top">Top</a>
+          <a href="#sec-pages">Pages</a>
+          <a href="#sec-about">About Me</a>
+          <a href="#sec-faq">FAQ</a>
+          <a href="#sec-links">Links</a>
+        </div>
     </div>
   `);
 
@@ -86,7 +110,7 @@ function defaultScript(page){
     });
 
     $('.faq-question').on('click',function(){
-      $('.faq-box').css({'max-height':'50px','border-color':'#444'});
+      $('.faq-box').css({'max-height':'50px','border-color':'#ccc'});
       $(this).children('.faq-open-indicator').css({'transform':'rotate(0deg)'})
       $('.faq-open-indicator').html('+');
       let parent =  $(this).parent().closest('div')
@@ -95,10 +119,22 @@ function defaultScript(page){
         $(this).children('.faq-open-indicator').css({'transform':'rotate(360deg)'})
         $(this).children('.faq-open-indicator').html('-');
       } else{
-        parent.css({'max-height':'50px','border-color':'#444'});
+        parent.css({'max-height':'50px','border-color':'#ccc'});
         $(this).children('.faq-open-indicator').css({'transform':'rotate(0deg)'})
         $(this).children('.faq-open-indicator').html('+');
       }
     })
+
+    $('.blog-box').on('click',function(){
+      add_url($(this).attr('data-page'),2)
+      let page = 'blogs/'+$(this).attr('data-page');
+      loadPage(page)
+    });
+
+    $('.back-to-blogs').on('click',function(){
+      add_url('blog',1)
+      let page = 'blog';
+      loadPage('blog')
+    });
   }, 500)
 }
