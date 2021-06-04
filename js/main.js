@@ -34,10 +34,13 @@ url_imp();
 var p_startTime;
 
 function loadPage(page){
-  p_startTime = (new Date()).getTime();
-  $('main .root').html('<h1 style="text-align:center;font-size:50px;color:var(--c1);margin-top:25%;">loading...</h1>')
-  $('head').append('<link rel="stylesheet" type="text/css" href="/shannon-nz/css/'+page+'.css">')
-  $('main .root').load('/shannon-nz/load/'+page+'.html', defaultScript(page));
+  $('main .root').css({'transform':'translate(0,-1000px);'})
+  setTimeout(function(){
+    p_startTime = (new Date()).getTime();
+    $('main .root').html('<h1 style="text-align:center;font-size:50px;color:var(--c1);margin-top:25%;">loading...</h1>')
+    $('head').append('<link rel="stylesheet" type="text/css" href="/shannon-nz/css/'+page+'.css">')
+    $('main .root').load('/shannon-nz/load/'+page+'.html', defaultScript(page));
+  }, 300)
 }
 
 var pages_arr = ['home', 'blog', 'projects', 'contact', 'resume'];
@@ -54,12 +57,18 @@ if(jQuery.inArray(get_url()[1], pages_arr) >= 0){
 //
 //
 function defaultScript(page){
+  // make the page visible
+  $('main .root').css({'opacity':'1'})
+
+  // log the load time for the page via $.load()
   var endTime = (new Date()).getTime();
   var millisecondsLoading = endTime - p_startTime;
   console.log('Load Time for "'+page+'": '+millisecondsLoading+'ms')
-  $('main .root').css({'opacity':'1'})
+
+  // change the tab title for the page
   $(document).attr('title','Shannon A | '+page.charAt(0).toUpperCase()+page.slice(1));
 
+  // onscroll, check the scroll point and style the poge accordingly
   var $w = $(window).scroll(function(){
     if ( $w.scrollTop() > 150 ) {
        $('nav').css({'box-shadow':'0 5px 10px rgba(0,0,0,.2)'})
@@ -71,12 +80,14 @@ function defaultScript(page){
 
   $('body').scrollTop(1000)
 
+  // onload, check the scroll point and style the poge accordingly
   if ( $w.scrollTop() > 150 ) {
      $('nav').css({'box-shadow':'0 5px 10px rgba(0,0,0,.2)'})
   } else {
      $('nav').css({'box-shadow':'none'})
   }
 
+  // decide what links are needed inside each page - contents, so sections
   var page_links;
   if(page == 'home'){
     page_links = `
@@ -102,7 +113,7 @@ function defaultScript(page){
 
   }
   
-
+  // Nav Bar - all pages
   $('.nav-placeholder').html(`
     <div class="root">
       <div class="top-nav">
@@ -125,9 +136,13 @@ function defaultScript(page){
     </div>
   `);
 
+  // highlight link in nav according to which page is being viewed
   $('.open-page-btn[data-page="'+page+'"]').addClass('active');
 
+
+  // click functions load a few milliseconds after everything else
   setTimeout(function(){
+    // all pages
     $('.open-page-btn').on('click', function(){
       let tpage = $(this).attr('data-page');
       add_url(tpage, 1);
@@ -138,6 +153,7 @@ function defaultScript(page){
       $('html,body').toggleClass('active-drop-contents')
     })
 
+    // index page - accordian animation
     $('.faq-question').on('click',function(){
       $('.faq-box').css({'max-height':'50px','border-color':'#ccc'});
       $(this).children('.faq-open-indicator').css({'transform':'rotate(0deg)'})
@@ -154,16 +170,30 @@ function defaultScript(page){
       }
     })
 
+    // main blog page
     $('.blog-box').on('click',function(){
       add_url($(this).attr('data-page'),2)
       let page = 'blogs/'+$(this).attr('data-page');
       loadPage(page)
     });
 
+    // blog post page
     $('.back-to-blogs').on('click',function(){
       add_url('blog',1)
       let page = 'blog';
       loadPage('blog')
     });
+
+
+    // project Page
+    $(".copy-btn-p").on('click',function () {
+
+      $(".copy-value-p-"+$(this).attr('data-num')).select();
+      document.execCommand('copy');
+      $(this).html('Copied!')
+      $(this).css('background','lightgreen')
+    });
+
+
   }, 500)
 }

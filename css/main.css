@@ -51,7 +51,7 @@ nav{
 
 nav .root{
 	width: 95%;
-	margin: 22px auto;
+	margin: 18px auto;
 }
 
 nav .top-nav{
@@ -77,7 +77,7 @@ nav .top-nav{
   margin: 0 5px;
 	color: #333;
   font-weight: 500;
-	border-bottom: 2px solid transparent;
+	border-bottom: 1px solid transparent;
 	cursor: pointer;
 	transition: .3s;
 }
