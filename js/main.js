@@ -35,7 +35,7 @@ var p_startTime;
 
 function loadPage(page){
   p_startTime = (new Date()).getTime();
-  $('main .root').html('loading')
+  $('main .root').html('<h1 style="text-align:center;font-size:50px;color:var(--c1);margin-top:25%;">loading...</h1>')
   $('head').append('<link rel="stylesheet" type="text/css" href="/shannon-nz/css/'+page+'.css">')
   $('main .root').load('/shannon-nz/load/'+page+'.html', defaultScript(page));
 }
@@ -80,7 +80,7 @@ function defaultScript(page){
   var page_links;
   if(page == 'home'){
     page_links = `
-      <a href="javascript:void(0)"><b>On This Page:</b></a>
+      <a href="javascript:void(0)" class="drop-down-contents">Contents <b>▾</b></a>
       <a href="#sec-top">Top</a>
       <a href="#sec-pages">Pages</a>
       <a href="#sec-about">About Me</a>
@@ -89,10 +89,10 @@ function defaultScript(page){
     `;
   } else if(page == 'blog'){
     page_links = `
-      <a href="javascript:void(0)"><b>On This Page:</b></a>
+      <a href="javascript:void(0)" class="drop-down-contents">Contents <b>▾</b></a>
       <a href="#sec-recent-blogs">Recent Blogs</a>
       <a href="#sec-popular-blogs">Popular Blogs</a>
-      <a href="#sec-request-blog">Popular Blogs</a>
+      <a href="#sec-request-blog">Other Blogs</a>
     `;
   } else if(page == 'projects'){
 
@@ -133,6 +133,10 @@ function defaultScript(page){
       add_url(tpage, 1);
       loadPage(tpage);
     });
+
+    $('.drop-down-contents').on('click',function(){
+      $('html,body').toggleClass('active-drop-contents')
+    })
 
     $('.faq-question').on('click',function(){
       $('.faq-box').css({'max-height':'50px','border-color':'#ccc'});

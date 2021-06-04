@@ -13,7 +13,7 @@
 	margin: 1%;
 	border-radius: 5px;
 	padding: 10px;
-	transition: .3s;
+	transition: .2s;
 	box-shadow: 0 3px 10px rgba(0,0,0,.4);
 	overflow: hidden;
 	cursor: pointer;
@@ -48,17 +48,13 @@
 	margin: 2px;
 	font-size: 13px;
 	border-radius: 30px;
-	background: #0055E1;
+	background: var(--c1);
 	color: #fff;
 	cursor: pointer;
 }
 
 .blog-tags p:first-of-type{
 	margin-left: 0;
-}
-
-.blog-tags p:hover{
-	filter: brightness(1.5);
 }
 
 .blog-date{

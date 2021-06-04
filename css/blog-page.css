@@ -30,17 +30,13 @@
 	margin: 2px;
 	font-size: 13px;
 	border-radius: 30px;
-	background: #0055E1;
+	background: var(--c1);
 	color: #fff;
 	cursor: pointer;
 }
 
 .blog-tags p:first-of-type{
 	margin-left: 0;
-}
-
-.blog-tags p:hover{
-	filter: brightness(1.5);
 }
 
 .blog-description p{
