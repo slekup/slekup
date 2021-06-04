@@ -1,5 +1,6 @@
 
 .blogs-container{
+	position: relative;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -49,6 +50,7 @@
 	border-radius: 30px;
 	background: #0055E1;
 	color: #fff;
+	cursor: pointer;
 }
 
 .blog-tags p:first-of-type{
