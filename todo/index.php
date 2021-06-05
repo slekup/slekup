@@ -44,45 +44,24 @@
 				<a href="javascript:void(0)">Home</a>
 				<a href="javascript:void(0)">Favorites</a>
 				<a href="javascript:void(0)">Deleted</a>
-				<a href="javascript:void(0)">Tasks</a>
 				<a href="javascript:void(0)">Planned</a>
 				<div class="side-menu-breaker"></div>
-				<a href="javascript:void(0)">My Custom To Do List</a>
+				<a href="javascript:void(0)" class="custom-list">Tasks</a>
 			</div>
 
 
 			<div class="main-output">
 				<div class="main-nav">
 					<h1 class="list-title">My New List</h1>
-					<div class="appearance-btn">Appearance ▾</div>
+					<div class="list-options-btn">
+            <div class="op-dot"></div>
+            <div class="op-dot"></div>
+            <div class="op-dot"></div>
+          </div>
 				</div>
 
-				<div class="tasks-container">
-					<div class="task-box">
-						<div class="check-task"></div>
-						<h1 class="task-title">Title of this Task</h1>
-					</div>
-
-					<div class="task-box">
-						<div class="check-task"></div>
-						<h1 class="task-title">Title of this Task</h1>
-					</div>
-
-					<div class="task-box">
-						<div class="check-task"></div>
-						<h1 class="task-title">Title of this Task</h1>
-					</div>
-
-					<div class="task-box">
-						<div class="check-task"></div>
-						<h1 class="task-title">Title of this Task</h1>
-					</div>
-				</div>
-
-				<div class="add-task-container">
-					<input type="text" placeholder="Add a Task...">
-					<button type="button">Add Task</button>
-				</div>
+			<div class="tasks-container">
+					
 
 			</div>
 		</div>
