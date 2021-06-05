@@ -1,4 +1,4 @@
-<h1 align="center">Shannon A. New Zealand</h1>
+<h1 align="center">Shannon A - <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">Shannon.rf.gd</a></h1>
 
 <p align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
@@ -68,6 +68,6 @@
 <h2>Links</h2>
 
 <p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
-<p><b>Profile Website (In progress):</b> <a href="https://shannon-nz.github.io" target="_blank">shannon-nz.github.io</a></p>
+<p><b>Profile Website (In progress):</b>  <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">Shannon.rf.gd</a></p>
 <p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com" target="_blank">Hexlen.com</a></p>
 																																																				 
