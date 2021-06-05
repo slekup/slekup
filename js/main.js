@@ -1,7 +1,8 @@
 function get_url(type){
   let url_parameters = new URLSearchParams(window.location.search);
   let tab = url_parameters.get('tab');
-  return [window.location.href, tab];
+  let sub = url_parameters.get('sub');
+  return [window.location.href, tab, sub];
 }
 
 // Function that gets the page url without parameters
@@ -105,6 +106,11 @@ function defaultScript(page){
       <a href="#sec-popular-blogs">Popular Blogs</a>
       <a href="#sec-request-blog">Other Blogs</a>
     `;
+    if(get_url()[2] != null){
+      add_url(get_url()[2],2)
+      let page = 'blogs/'+get_url()[2];
+      loadPage(page)
+    }
   } else if(page == 'projects'){
 
   } else if(page == 'contact'){
@@ -195,5 +201,5 @@ function defaultScript(page){
     });
 
 
-  }, 500)
+  }, 100)
 }
