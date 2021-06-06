@@ -65,6 +65,9 @@
   </a>
 </p>
 -->
+	
+<h3 align="center">An Abstract Problem Solver</h3>
+	
 <h2>Links</h2>
 
 <p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
@@ -149,9 +152,9 @@
 <h2>Other things about me</h2>
 <ul>
 	<li>My favorite text editor(s): Sublime Text 4 & Visual Studio Code</li>
-	<li>I am from New Zealand</li>
 	<li>I love to road bike, mountain bike, long distance running, and occasionally Football</li>
 	<li>I don't get much sleep, hence why I live for coffee</li>
-	<li>I am a Student from Canterbury, New Zealand</li>
+	<li>I am a full-time Student in Canterbury, New Zealand</li>
 	<li>Online Privacy is something I take seriously and spread awareness for it. Edward Snowden, "It's not about having something to hide, it's about having something to protect."</li>
+	<li>I enjoy working with people who are open-minded and are <a href="https://www.healthline.com/health/abstract-thinking#How-to-improve-abstract-thinking">Abstract Thinkers</a></li>
 </ul>
