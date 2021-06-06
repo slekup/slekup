@@ -76,25 +76,25 @@
 
 <h2>My Skills</h2>
 <ul>
-	<li>HTML</li>
-	<li>CSS, Bootstrap</li>
-	<li>JavaScript, jQuery, ReactJS</li>
-	<li>PHP, mySQL</li>
-	<li>Python</li>
-	<li>C/C++ (the basics)</li>
-	<li>Linux</li>
+	<li><a href="https://www.w3schools.com/html/" target="_blank">HTML</a></li>
+	<li><a href="https://www.w3schools.com/Css/" target="_blank">CSS</a>, <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+	<li><a href="https://www.javascript.com/" target="_blank">JavaScript</a>, <a href="https://jquery.com/" target="_blank">jQuery</a>, <a href="https://reactjs.org/" target="_blank">ReactJS</a></li>
+	<li><a href="https://www.php.net/" target="_blank">PHP</a>, <a href="https://www.mysql.com/" target="_blank">mySQL</a></li>
+	<li><a href="https://www.python.org/" target="_blank">Python</a></li>
+	<li><a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">C</a>/<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">C++</a> (the basics)</li>
+	<li><a href="https://www.linux.org/" target="_blank">Linux</a></li>
 	<li>Online Privacy</li>
 	<li>Ethical Hacking (the basics)</li>
-	<li>Git</li>
+	<li><a href="https://git-scm.com/" target="_blank">Git</a></li>
 </ul>	
 
 
 <h2>What I'm Learning Now</h2>
 <ul>
-	<li>NodeJS, ExpressJS</li>
-	<li>MongoDB</li>
-	<li>C/C++ (projects)</li>
-	<li>Java</li>
+	<li><a href="https://nodejs.org/en/" target="_blank">NodeJS</a>, <a href="https://expressjs.com/" target="_blank">ExpressJS</a></li>
+	<li><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></li>
+		<li><a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">C</a>/<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">C++</a> (projects)</li>
+	<li><a href="https://www.java.com/en/" target="_blank">Java</a></li>
 	<li>Artificial Intelligent (with python)</li>
 	<li>Ethical Hacking (more advanced stuff)</li>
 </ul>
@@ -139,14 +139,15 @@
 
 <h2>What I Would Like To Learn Later (with free time)</h2>
 <ul>
-	<li>Swift, Objective-C</li>
-	<li>Kotlin</li>
-	<li>Assembly</li>
-	<li>C#</li>
-	<li>Rust</li>
-	<li>Django</li>
-	<li>CodeIgniter</li>
-	<li>Laravel</li>
+	<li><a href="https://developer.apple.com/swift/" target="_blank">Swift</a>, <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">Objective-C</a></li>
+	<li><a href="https://kotlinlang.org/" target="_blank">Kotlin</a></li>
+	<li><a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank">Assembly</a></li>
+	<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a></li>
+	<li><a href="https://www.rust-lang.org/" target="_blank">Rust</a></li>
+	<li><a href="https://www.djangoproject.com/" target="_blank">Django</a></li>
+	<li><a href="https://codeigniter.com/" target="_blank">CodeIgniter</a></li>
+	<li><a href="https://laravel.com/" target="_blank">Laravel</a></li>
+	<li><a href="https://flutter.dev/" target="_blank">Flutter</a></li>
 </ul>
 
 <h2>Other things about me</h2>
