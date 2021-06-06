@@ -79,7 +79,10 @@
 	<li>PHP, mySQL</li>
 	<li>Python</li>
 	<li>C/C++ (the basics)</li>
-	<li></li>
+	<li>Linux</li>
+	<li>Online Privacy</li>
+	<li>Ethical Hacking (the basics)</li>
+	<li>Git</li>
 </ul>	
 
 
@@ -101,4 +104,11 @@
 	<li>C#</li>
 	<li>Rust</li>
 	<li>Django</li>
-</ul>	
+</ul>
+
+<h2>Other</h2>
+<ul>
+	<li>My favorite text editor(s): Sublime Text 4 & Visual Studio Code</li>
+	<li>I am from New Zealand</li>
+	<li>I love to road bike, mountain bike, long distance running.</li>
+</ul>
