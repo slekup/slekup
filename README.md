@@ -74,7 +74,7 @@
 <h2>My Skills</h2>
 <ul>
 	<li>HTML</li>
-	<li>CSS</li>
+	<li>CSS, Bootstrap</li>
 	<li>JavaScript, jQuery, ReactJS</li>
 	<li>PHP, mySQL</li>
 	<li>Python</li>
@@ -93,10 +93,48 @@
 	<li>C/C++ (projects)</li>
 	<li>Java</li>
 	<li>Artificial Intelligent (with python)</li>
-</ul>	
+	<li>Ethical Hacking (more advanced stuff)</li>
+</ul>
+
+<h2>My Top Current Projects</h2>
+<ul>
+	<li><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack</li>
+	<li><a href="https://www.shannon.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
+	<li><a href="https://github.com/Alpha-Reader">Alpha Reader</a> - An Online Platform for Readers & Authors (International). Founded by a colleague. Will likely use LAMP or MERN stack.</li>
+	<li>Online Messaging Platform - Coming Soon</li>
+	<li><a href="https://github.com/shannon-nz/React-Tutorial">React-Tutorial</a> - Currently Learning React</li>
+	<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web-Dev-For-Beginners</a> - A course from Microsoft</li>
+	<li>7 Python Programs - Educational Assesment</li>
+	<li><a href="https://github.com/shannon-nz/aimiamano">Aimi Amano</a> - Artist's Website</li>
+	<li><a href="https://github.com/shannon-nz/home">Home</a> - An application for almost everything, made with LAMP stack</li>
+</ul>
 
 
-<h2>What I Would Like To Learn Later</h2>
+<h2>Projects I would like to work on later - To Do List</h2>
+<ul>
+	<li>Automated AI Hacking with Python</li>
+	<li>Making Browser Extensions</li>
+	<li>Programming a Basic Operating System with C/C++, Assembly, and Python</li>
+	<li>Scientific Calculator</li>
+	<li>Habit Tracker</li>
+	<li>Weather Website</li>
+	<li>Quiz Website</li>
+	<li>Ingredients to Recipe</li>
+	<li>Conversion Website</li>
+	<li>Dynamic To Do List</li>
+	<li>Instagram Clone</li>
+	<li>Trello Clone</li>
+	<li>Tetris</li>
+	<li>Tic-Tac-Toe</li>
+	<li>Review Mining for Restaurants</li>
+	<li>Portal for Doctors</li>
+	<li>Chatbot for Students</li>
+	<li>Fake Review Identification</li>
+	<li>Custom API for GitHub READMEs</li>
+</ul>
+
+
+<h2>What I Would Like To Learn Later (with free time)</h2>
 <ul>
 	<li>Swift, Objective-C</li>
 	<li>Kotlin</li>
@@ -104,11 +142,16 @@
 	<li>C#</li>
 	<li>Rust</li>
 	<li>Django</li>
+	<li>CodeIgniter</li>
+	<li>Laravel</li>
 </ul>
 
-<h2>Other</h2>
+<h2>Other things about me</h2>
 <ul>
 	<li>My favorite text editor(s): Sublime Text 4 & Visual Studio Code</li>
 	<li>I am from New Zealand</li>
-	<li>I love to road bike, mountain bike, long distance running.</li>
+	<li>I love to road bike, mountain bike, long distance running, and occasionally Football</li>
+	<li>I don't get much sleep, hence why I live for coffee</li>
+	<li>I am a Student from Canterbury, New Zealand</li>
+	<li>Online Privacy is something I take seriously and spread awareness for it. Edward Snowden, "It's not about having something to hide, it's about having something to protect."</li>
 </ul>
