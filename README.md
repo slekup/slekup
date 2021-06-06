@@ -70,4 +70,35 @@
 <p><b>Email:</b> <a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a></p>
 <p><b>Profile Website (In progress):</b>  <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">Shannon.rf.gd</a></p>
 <p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com" target="_blank">Hexlen.com</a></p>
-																																																				 
+
+<h2>My Skills</h2>
+<ul>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>JavaScript, jQuery, ReactJS</li>
+	<li>PHP, mySQL</li>
+	<li>Python</li>
+	<li>C/C++ (the basics)</li>
+	<li></li>
+</ul>	
+
+
+<h2>What I'm Learning Now</h2>
+<ul>
+	<li>NodeJS, ExpressJS</li>
+	<li>MongoDB</li>
+	<li>C/C++ (projects)</li>
+	<li>Java</li>
+	<li>Artificial Intelligent (with python)</li>
+</ul>	
+
+
+<h2>What I Would Like To Learn Later</h2>
+<ul>
+	<li>Swift, Objective-C</li>
+	<li>Kotlin</li>
+	<li>Assembly</li>
+	<li>C#</li>
+	<li>Rust</li>
+	<li>Django</li>
+</ul>	
