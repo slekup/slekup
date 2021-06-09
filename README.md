@@ -11,7 +11,7 @@
 	<div></div>
 	<div align="right" width="50%">
 		<h3>An Abstract Problem Solver</h3>
-		<p>Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my [profile](https://www.shannon.rf.gd/).</p>
+		<p>Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my <a href="https://www.shannon.rf.gd/">Profile</a>.</p>
 	</div>
 </div>
 
