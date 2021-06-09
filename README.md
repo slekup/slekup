@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
-  <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg">
+  <img src="https://img.shields.io/website-up-up-green-green/http/cv.lbesson.qc.to.svg">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
 
