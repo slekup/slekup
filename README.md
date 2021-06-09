@@ -1,4 +1,4 @@
-<h1 align="center">Shannon A - <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">Shannon.rf.gd</a></h1>
+<h1 align="center">Shannon A</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
@@ -6,11 +6,16 @@
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" alt="shannon-nz" />
-</p>
-  
-<h3 align="center">An Abstract Problem Solver</h3>
+<div>
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" alt="shannon-nz" width="50%" align="left" />
+	<div></div>
+	<div align="right" width="50%">
+		<h3>An Abstract Problem Solver</h3>
+		<p>Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my [profile](https://www.shannon.rf.gd/).</p>
+	</div>
+</div>
+
+<br><br>
   
 <h2>Links</h2>
 
