@@ -12,11 +12,11 @@
 
 <p align="left"> 
 		<h3>An Abstract Problem Solver</h3>
-Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my <a href="https://www.shan.rf.gd/">Profile</a>.
+Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my <a href="https://www.shannon.rf.gd/">Profile</a>.
 <br><br>
 I spend my time doing several things. These include, studying, programming new projects, working on my business, excersizing. I do much more in my normal day than most people would like to, but you can read that on my profile page. I am seeking to make new friends through social media to work together and develop new code that will change the world someday.
 <br><br>
-If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shan.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further.
+If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further.
 <br><br>
 I would also like to note that my profile website is still in development, so if there are things that are missing, example components, or the design does not work on our device size, then I assure you that I am working on it. The full website should be production ready about half-way through the month. I also haven't spell checked this readme, so ignore any errors that you find, I update this frequently so people can access the latest info in regards to my dev progress.
 </p>
@@ -24,7 +24,7 @@ I would also like to note that my profile website is still in development, so if
 <h2>Links</h2>
 
 <p><b>Email:</b> <a href="mailto:admin@hexlen.com">admin@hexlen.com</a></p>
-<p><b>Profile Website (In progress):</b>  <a href="https://www.shan.rf.gd/?tab=home" target="_blank">shan.rf.gd</a></p>
+<p><b>Profile Website (In progress):</b>  <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">shannon.rf.gd</a></p>
 <p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com" target="_blank">Hexlen.com</a></p>
 <br>
 <h2 align="center">↓ My Current Status ↓</h2>
@@ -93,7 +93,7 @@ I would also like to note that my profile website is still in development, so if
       <td width="50%">
         <ul>
           <li><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack</li>
-          <li><a href="https://www.shan.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
+          <li><a href="https://www.shannon.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
           <li><a href="https://github.com/Alpha-Reader">Alpha Reader</a> - An Online Platform for Readers & Authors (International). Founded by a colleague. Will likely use LAMP or MERN stack.</li>
           <li>Online Messaging Platform - Coming Soon</li>
           <li><a href="https://github.com/shannon-nz/React-Tutorial">React-Tutorial</a> - Currently Learning React</li>
