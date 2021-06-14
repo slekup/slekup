@@ -62,6 +62,7 @@ I would also like to note that my profile website is still in development, so if
 					<li><a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">C</a>/<a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">C++</a> (projects)</li>
 					<li><a href="https://www.java.com/en/" target="_blank">Java</a></li>
 					<li>Artificial Intelligent (with python)</li>
+					<li><a href="https://www.djangoproject.com/" target="_blank">Django</a></li>
 					<li>Ethical Hacking (more advanced stuff)</li>
 				</ul>
 			</td>
@@ -72,7 +73,6 @@ I would also like to note that my profile website is still in development, so if
 					<li><a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank">Assembly</a></li>
 					<li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a></li>
 					<li><a href="https://www.rust-lang.org/" target="_blank">Rust</a></li>
-					<li><a href="https://www.djangoproject.com/" target="_blank">Django</a></li>
 					<li><a href="https://codeigniter.com/" target="_blank">CodeIgniter</a></li>
 					<li><a href="https://laravel.com/" target="_blank">Laravel</a></li>
 					<li><a href="https://flutter.dev/" target="_blank">Flutter</a></li>
