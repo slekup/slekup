@@ -12,12 +12,8 @@
     ]
   },
   "hosting": {
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "site": "shannon-nz",
+    "public": "public"
   },
   "storage": {
     "rules": "storage.rules"
