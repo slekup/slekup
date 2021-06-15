@@ -101,7 +101,7 @@ I would also like to note that my profile website is still in development, so if
           <li>7 Python Programs - Educational Assesment</li>
           <li><a href="https://github.com/shannon-nz/aimiamano">Aimi Amano</a> - Artist's Website</li>
           <li><a href="https://github.com/shannon-nz/home">Home</a> - An application for almost everything, made with LAMP stack</li>
-          <li><a href="https://github.com/shannon-nz/home">python-games</a> - An interactive python application consisting of custom commands, games, and more.</li>
+          <li><a href="https://github.com/shannon-nz/python-games">python-games</a> - An interactive python application consisting of custom commands, games, and more.</li>
         </ul>
       </td>
       <td>
