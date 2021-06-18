@@ -93,6 +93,7 @@ I would also like to note that my profile website is still in development, so if
       <td width="50%">
         <ul>
           <li><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack</li>
+          <li><a href="https://github.com/shannon-nz/PEX">PEX</a> - My current python project, where I explore as much as possible about what python is capable of.</li>
           <li><a href="https://www.shannon.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
           <li><a href="https://github.com/Alpha-Reader">Alpha Reader</a> - An Online Platform for Readers & Authors (International). Founded by a colleague. Will likely use LAMP or MERN stack.</li>
           <li>Online Messaging Platform - Coming Soon</li>
@@ -101,7 +102,6 @@ I would also like to note that my profile website is still in development, so if
           <li>7 Python Programs - Educational Assesment</li>
           <li><a href="https://github.com/shannon-nz/aimiamano">Aimi Amano</a> - Artist's Website</li>
           <li><a href="https://github.com/shannon-nz/home">Home</a> - An application for almost everything, made with LAMP stack</li>
-          <li><a href="https://github.com/shannon-nz/python-games">python-games</a> - An interactive python application consisting of custom commands, games, and more.</li>
         </ul>
       </td>
       <td>
