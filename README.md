@@ -147,7 +147,7 @@ I would also like to note that my profile website is still in development, so if
 <h2 align="center">Stats</h2>
 <p align="center">
 	<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" align="center" alt="https://www.shannon.rf.gd/page=home"  />-->
-	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&show_icons=true&theme=chartreuse-dark">
-	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=chartreuse-dark"/>
+	<img width="57%" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&show_icons=true&theme=chartreuse-dark">
+	<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=chartreuse-dark"/>
 </p>
 
