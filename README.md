@@ -12,7 +12,7 @@
 
 <p align="left"> 
 		<h3>An Abstract Problem Solver</h3>
-Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me or have a look at my <a href="https://www.shannon.rf.gd/">Profile</a>.
+Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me for more details or have a look at my <a href="https://www.shannon.rf.gd/">Profile</a>. I have also started a python project called PEX (python experimental), if you would like to contribute to this project, I'll be here!
 <br><br>
 I spend my time doing several things. These include, studying, programming new projects, working on my business, excersizing. I do much more in my normal day than most people would like to, but you can read that on my profile page. I am seeking to make new friends through social media to work together and develop new code that will change the world someday.
 <br><br>
