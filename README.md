@@ -82,55 +82,19 @@ I would also like to note that my profile website is still in development, so if
   </tbody>
 </table>
 
-
-<table>
-  <tbody>
-    <tr>
-      <th>My Current Projects</th>
-      <th>Projects that I would like to work on - to do list</th>
-    </tr>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack</li>
-          <li><a href="https://github.com/shannon-nz/PEX">PEX</a> - My current python project, where I explore as much as possible about what python is capable of.</li>
-          <li><a href="https://www.shannon.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
-          <li><a href="https://github.com/Alpha-Reader">Alpha Reader</a> - An Online Platform for Readers & Authors (International). Founded by a colleague. Will likely use LAMP or MERN stack.</li>
-          <li>Online Messaging Platform - Coming Soon</li>
-          <li><a href="https://github.com/shannon-nz/React-Tutorial">React-Tutorial</a> - Currently Learning React</li>
-          <li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web-Dev-For-Beginners</a> - A course from Microsoft</li>
-          <li>7 Python Programs - Educational Assesment</li>
-          <li><a href="https://github.com/shannon-nz/aimiamano">Aimi Amano</a> - Artist's Website</li>
-          <li><a href="https://github.com/shannon-nz/home">Home</a> - An application for almost everything, made with LAMP stack</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li>Automated AI Hacking with Python</li>
-          <li>Making Browser Extensions</li>
-          <li>Programming a Basic Operating System with C/C++, Assembly, and Python</li>
-          <li>Scientific Calculator</li>
-          <li>Habit Tracker</li>
-          <li>Weather Website</li>
-          <li>Quiz Website</li>
-          <li>Ingredients to Recipe</li>
-          <li>Conversion Website</li>
-          <li>Dynamic To Do List</li>
-          <li>Instagram Clone</li>
-          <li>Trello Clone</li>
-          <li>Tetris</li>
-          <li>Tic-Tac-Toe</li>
-          <li>Review Mining for Restaurants</li>
-          <li>Portal for Doctors</li>
-          <li>Chatbot for Students</li>
-          <li>Fake Review Identification</li>
-          <li>Custom API for GitHub READMEs</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+## My Current Projects
+<ul>
+	<li><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack</li>
+	<li><a href="https://github.com/shannon-nz/PEX">PEX</a> - My current python project, where I explore as much as possible about what python is capable of.</li>
+	<li><a href="https://www.shannon.rf.gd/">My Profile</a> - Built with LAMP Stack</li>
+	<li><a href="https://github.com/Alpha-Reader">Alpha Reader</a> - An Online Platform for Readers & Authors (International). Founded by a colleague. Will likely use LAMP or MERN stack.</li>
+	<li>Online Messaging Platform - Coming Soon</li>
+	<li><a href="https://github.com/shannon-nz/React-Tutorial">React-Tutorial</a> - Currently Learning React</li>
+	<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web-Dev-For-Beginners</a> - A course from Microsoft</li>
+	<li>7 Python Programs - Educational Assesment</li>
+	<li><a href="https://github.com/shannon-nz/aimiamano">Aimi Amano</a> - Artist's Website</li>
+	<li><a href="https://github.com/shannon-nz/home">Home</a> - An application for almost everything, made with LAMP stack</li>
+</ul>
 
 <h2>Other things about me</h2>
 <ul>
