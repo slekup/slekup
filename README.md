@@ -19,7 +19,6 @@ I spend my time doing several things. These include, studying, programming new p
 If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further. I currently have a lot of repositories that I have made for future projects. This is so that when checking up on my repositories, that I will remember to start any projects that I have not completed, that I expected to by then. 
 </p>
 
-<h2 align="center">↓ My Current Status ↓</h2>
 <table>
   <tbody>
     <tr>
@@ -95,20 +94,20 @@ If this is your first time seeing my profile, I invite you to take the intiative
   <li>My favorite text editor(s): Sublime Text 4 & Visual Studio Code</li>
   <li>I love to road bike, mountain bike, long distance running, and occasionally Football</li>
   <li>I don't get much sleep, hence why I live for coffee</li>
-  <li>I am a full-time Student in Canterbury, New Zealand</li>
   <li>Online Privacy is something I take seriously and spread awareness for it. Edward Snowden, "It's not about having something to hide, it's about having something to protect."</li>
-  <li>I enjoy working with people who are open-minded and are <a href="https://www.healthline.com/health/abstract-thinking#How-to-improve-abstract-thinking">Abstract Thinkers</a></li>
 </ul>
 
 <br>
 
+<!--
+ Stats, I have commented this out
 <h2 align="center">Stats</h2>
 <p align="center">
-	<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" align="center" alt="https://www.shannon.rf.gd/page=home"  />-->
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=shannon-nz&theme=gruvbox_duo" align="center" alt="https://www.shannon.rf.gd/page=home"  
 	<img width="57%" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&show_icons=true&theme=chartreuse-dark">
 	<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=chartreuse-dark"/>
 </p>
 
 <h2>Support Me</h2>
 <p><a href="https://www.buymeacoffee.com/shannonnz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shannonnz" /></a></p>
-
+ -->
