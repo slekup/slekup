@@ -40,6 +40,7 @@ I would also like to note that my profile website is still in development, so if
 				<ul>
 					<li><a href="https://www.w3schools.com/html/" target="_blank">HTML</a></li>
 					<li><a href="https://www.w3schools.com/Css/" target="_blank">CSS</a></li>
+					<li><a href="https://www.w3schools.com/Css/" target="_blank">SASS (SCSS)</a></li>
 					<li><a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
 					<li><a href="https://www.javascript.com/" target="_blank">JavaScript</a></li>
 					<li><a href="https://jquery.com/" target="_blank">jQuery</a></li>
@@ -53,6 +54,7 @@ I would also like to note that my profile website is still in development, so if
 					<li>Online Privacy</li>
 					<li>Ethical Hacking (the basics)</li>
 					<li><a href="https://git-scm.com/" target="_blank">Git</a></li>
+					<li>Others: Material UI</li>
 				</ul> 
 			</td>
       <td width="33%">
