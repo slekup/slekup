@@ -5,13 +5,11 @@
   <img src="https://img.shields.io/website-up-up-green-green/http/cv.lbesson.qc.to.svg">
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
 </p>
-
 <br><br>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 <p align="left"> 
-		<h3>An Abstract Problem Solver</h3>
+		<h3>About</h3>
 Hi I'm Shannon, a Full Stack Developer from New Zealand. I am the founder of an e-commerce platform that I am working on, Hexlen.com. For the rest of my time, I may be writing blogs or other things that you can find on my <a href="https://www.shannon.rf.gd/">profile</a>.
 <br><br>
 I spend my time doing several things. These include, studying, programming new projects, working on my business, excersizing. I do much more in my normal day than most people would like to, but you can read that on my profile page. I am seeking to make new friends through social media to work together and develop new code that will change the world someday.
