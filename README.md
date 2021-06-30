@@ -18,13 +18,7 @@ I spend my time doing several things. These include, studying, programming new p
 <br><br>
 If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further. I currently have a lot of repositories that I have made for future projects. This is so that when checking up on my repositories, that I will remember to start any projects that I have not completed, that I expected to by then. 
 </p>
-  
-<h2>Links</h2>
 
-<p><b>Email:</b> <a href="mailto:admin@hexlen.com">admin@hexlen.com</a></p>
-<p><b>Profile Website (In progress):</b>  <a href="https://www.shannon.rf.gd/?tab=home" target="_blank">shannon.rf.gd</a></p>
-<p><b>Current E-Commerce Platform Project:</b> <a href="https://www.hexlen.com" target="_blank">Hexlen.com</a></p>
-<br>
 <h2 align="center">↓ My Current Status ↓</h2>
 <table>
   <tbody>
