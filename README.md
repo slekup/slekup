@@ -18,7 +18,7 @@ I spend my time doing several things. These include, studying, programming new p
 <br><br>
 If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further.
 <br><br>
-I would also like to note that my profile website is still in development, so if there are things that are missing, example components, or the design does not work on our device size, then I assure you that I am working on it. The full website should be production ready about half-way through the month. I also haven't spell checked this readme, so ignore any errors that you find, I update this frequently so people can access the latest info in regards to my dev progress.
+I currently have a lot of repositories that I have made for future projects. This is so that when checking up on my repositories, that I will remember to start any projects that I have not completed, that I expected to by then. 
 </p>
   
 <h2>Links</h2>
