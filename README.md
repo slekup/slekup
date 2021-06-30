@@ -12,13 +12,11 @@
 
 <p align="left"> 
 		<h3>An Abstract Problem Solver</h3>
-Hi I'm Shannon, a Full Stack Developer from New Zealand. I am also founding an E-Commerce Platform called Hexlen.com, this is my first venture and I am very excited, feel free to contact me for more details or have a look at my <a href="https://www.shannon.rf.gd/">Profile</a>. I have also started a python project called PEX (python experimental), if you would like to contribute to this project, I'll be here!
+Hi I'm Shannon, a Full Stack Developer from New Zealand. I am the founder of an e-commerce platform that I am working on, Hexlen.com. For the rest of my time, I may be writing blogs or other things that you can find on my <a href="https://www.shannon.rf.gd/">profile</a>.
 <br><br>
 I spend my time doing several things. These include, studying, programming new projects, working on my business, excersizing. I do much more in my normal day than most people would like to, but you can read that on my profile page. I am seeking to make new friends through social media to work together and develop new code that will change the world someday.
 <br><br>
-If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further.
-<br><br>
-I currently have a lot of repositories that I have made for future projects. This is so that when checking up on my repositories, that I will remember to start any projects that I have not completed, that I expected to by then. 
+If this is your first time seeing my profile, I invite you to take the intiative to contact me. This can be done via my <a href="mailto:slekupvimplyrataqq@protonmail.com">email</a>, to contact me in other ways, please visit <a href="https://www.shannon.rf.gd/?page=contact">this page</a> and I would love to collaborate with you further. I currently have a lot of repositories that I have made for future projects. This is so that when checking up on my repositories, that I will remember to start any projects that I have not completed, that I expected to by then. 
 </p>
   
 <h2>Links</h2>
