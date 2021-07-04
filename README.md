@@ -105,7 +105,9 @@ If this is your first time seeing my profile, I invite you to take the intiative
 	<img width="57%" src="https://github-readme-stats.vercel.app/api?username=shannon-nz&show_icons=true&theme=chartreuse-dark">
 	<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannon-nz&langs_count=3&hide_title=true&hide_border=true&theme=chartreuse-dark"/>
 </p>
-
+-->
 <h2>Support Me</h2>
 <p><a href="https://www.buymeacoffee.com/shannonnz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shannonnz" /></a></p>
- -->
+</br></br></br>
+<a href="https://www.fiverr.com/share/ZRZGGQ">Get your own website developed</a>
+
