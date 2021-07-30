@@ -2,12 +2,11 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shannon-nz" id="counter">
-  <img src="https://img.shields.io/website-up-up-green-green/http/cv.lbesson.qc.to.svg">
 </p>
-<br><br>
-
 
 <p>Hi, my name is Shannon and I am from New Zealand. I am the Founder of Hexlen, Full Stack Developer, Blogger, and Full-Time Student. I work to utilize my skills in a way that will benefit society long term. Over the years, I have learnt that perseverance is the key to consistency with study & work and to embrace any opportunities that come along.</p>
+
+<img src="./linkedin-banner.png">
 
 <h1>What I specialize in</h1>
 <ul>
