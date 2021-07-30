@@ -16,7 +16,7 @@
 	<li>PHP, mySQL, MongoDB</li>
 	<li>Python, C/C++</li>
 	<li>Linux, Online Privacy, Ethical Hacking (the basics), Git</li>
-	<li>Business</li>
+	<li>Business, Management, Design (sort of)</li>
 </ul> 
 
 
