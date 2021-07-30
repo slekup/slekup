@@ -39,5 +39,5 @@ Feel free to contact me with any of the following
 <h2>Support Me</h2>
 <p><a href="https://www.buymeacoffee.com/shannonnz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shannonnz" /></a></p>
 </br></br></br>
-<a href="https://www.fiverr.com/share/ZRZGGQ">Get your own website developed</a>
+<a href="https://www.fiverr.com/share/ZRZGGQ">Fiverr - I will develop a premium wordpress website or ecommerce network</a>
 
