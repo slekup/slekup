@@ -20,8 +20,7 @@
 
 
 ## My Current Projects
-### Primary Project
-<a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack. You can learn about this project/business at: <a href="https://about.hexlen.com">about.hexlen.com</a>, at the time of writing this, I am still working on the page.
+<h3><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack. You can learn about this project/business at: <a href="https://about.hexlen.com">about.hexlen.com</a>, at the time of writing this, I am still working on the page.</h3>
 Here are some more links: </br> </br>
 <a href="https://contributors.hexlen.com">c.hexlen.com</a> - Hexlen Contributors </br>
 <a href="https://beta.hexlen.com">beta.hexlen.com</a> - Beta version of Hexlen Applications </br>
@@ -30,7 +29,9 @@ Here are some more links: </br> </br>
 <a href="https://seller.hexlen.com">seller.hexlen.com</a> - Seller Portal for Business Sales </br>
 <a href="https://opensource.hexlen.com">opensource.hexlen.com</a> - Hexlen Open Source Website </br>
 <a href="hexlen.com/indexed">hexlen.com/indexed</a> - All Hexlen pages indexed by Google </br>
+
 ### Other Projects
+
 <ul>
 	<li><a href="https://github.com/shannon-nz/PEX">https://github.com/shannon-nz/PEX</a> - My current python project, where I explore as much as possible about what python is capable of.</li>
 	<li><a href="https://shannon-nz.web.app/">https://shannon-nz.web.app/</a> - My new website that I am trying to develop with React.js</li>
