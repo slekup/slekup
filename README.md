@@ -19,7 +19,7 @@
 </ul> 
 
 
-## My Current Projects
+<h1>My Current Projects</h1>
 <h3><a href="https://www.hexlen.com/">Hexlen.com</a> - An E-Commerce Platform in the US & New Zealand - Being developed with MERN Stack. You can learn about this project/business at: <a href="https://about.hexlen.com">about.hexlen.com</a>, at the time of writing this, I am still working on the page.</h3>
 Here are some more links: </br> </br>
 <a href="https://contributors.hexlen.com">c.hexlen.com</a> - Hexlen Contributors </br>
@@ -30,7 +30,7 @@ Here are some more links: </br> </br>
 <a href="https://opensource.hexlen.com">opensource.hexlen.com</a> - Hexlen Open Source Website </br>
 <a href="hexlen.com/indexed">hexlen.com/indexed</a> - All Hexlen pages indexed by Google </br>
 
-### Other Projects
+## Other Projects
 
 <ul>
 	<li><a href="https://github.com/shannon-nz/PEX">https://github.com/shannon-nz/PEX</a> - My current python project, where I explore as much as possible about what python is capable of.</li>
@@ -38,7 +38,7 @@ Here are some more links: </br> </br>
 	<li><a href="https://github.com/shannon-nz/aimiamano">https://github.com/shannon-nz/aimiamano</a> - Artist's Website</li>
 </ul>
 
-# Contact
+<h1>Contact</h1>
 Feel free to contact me with any of the following
 - slekupvimplyrataqq@protonmail.com - personal email
 - shannon@hexlen.com - business email
@@ -47,7 +47,7 @@ Feel free to contact me with any of the following
 
 <br>
 
-<h2>Support Me</h2>
+<h1>Support Me</h1>
 <p><a href="https://www.buymeacoffee.com/shannonnz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shannonnz" /></a></p>
 </br></br></br>
 <a href="https://www.fiverr.com/share/ZRZGGQ">Fiverr - I will develop a premium wordpress website or ecommerce network</a>
