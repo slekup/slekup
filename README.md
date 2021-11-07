@@ -5,13 +5,12 @@
 </p>
 
 <h3>What I specialize in</h3>
-<ul>
-	<li>HTML, CSS, SASS, Bootstrap, Material UI.</a></li>
-	<li>JavaScript, jQuery, React, Node, Express.</li>
-	<li>PHP, mySQL, MongoDB.</li>
-	<li>Python, C/C++, Basic Django.</li>
-	<li>Linux, Online Privacy, Ethical Hacking (the basics), Git.</li>
-	<li>Business, Management, Design.</li>
+- HTML, CSS, SASS, Bootstrap, Material UI, TailwindCSS.
+- JavaScript, jQuery, React, Node, Express.
+- PHP, mySQL, MongoDB, GraphQL.
+- Python, C/C++, Basic Django.
+- Linux, Online Privacy, Ethical Hacking (the basics), Git.
+- Business, Management, Design.
 </ul> 
 
 <h3>Contact</h3>
