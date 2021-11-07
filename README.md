@@ -1,4 +1,4 @@
-<h1 align="center">Shan A</h1>
+<h1 align="center">Shannon</h1>
 
 <h3>What I specialize in</h3>
 
