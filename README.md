@@ -1,5 +1,5 @@
 
-# Intro
+# Welcome
 
 <h4><a href="https://aspect.cx">Website</a> • <a href="https://aspect.cx/blog">Blog</a> • <a href="https://aspect.cx/about/support/">Support</a> • <a href="https://aspect.cx/projects">Projects</a> • <a href="https://aspect.cx/about">About</a> • <a href="https://aspect.cx/info">Info Pages</a></h4>
 
