@@ -1,13 +1,11 @@
-<h1 align="center">Shannon</h1>
 
-<h3>Note</h3>
-Most of my repositories are private and are only accessible to a selection of people. If you're interested in joining one of my projects or would like to learn more about what I do and how you could become a part, feel free to send an email to the address below.
-I will be soon launching my own website which includes all of my current projects, as well as my future plans for each of them. Again, if you would like to learn how to get updates on these things, feel free to send me an email.
+# Hi, I'm Aspect
 
-<h3>Contact</h3>
-<a href="mailto:slekupvimplyrataqq@protonmail.com">slekupvimplyrataqq@protonmail.com</a>
+<h4><a href="https://aspect.cx">Website</a> • <a href="https://aspect.cx/blog">Blog</a> • <a href="https://aspect.cx/about/support/">Support</a> • <a href="https://aspect.cx/projects">Projects</a> • <a href="https://aspect.cx/about">About</a> • <a href="https://aspect.cx/info">Info Pages</a></h4>
 
-<h3>What I specialize in</h3>
+My repositories are private and only accessible to a few. Contact me on discord if you wish to access a specific repository.
+
+<h3>Tech Stack (learnt and learning)</h3>
 
 - HTML, CSS, SASS, Bootstrap, Material UI, TailwindCSS.
 - JavaScript, jQuery, React, Node, Express.
