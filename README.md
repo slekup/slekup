@@ -3,7 +3,8 @@
 
 <h4><a href="https://aspect.cx">Personal Website</a> • <a href="https://anty.aspect.cx">Anty (Discord Bot)</a> • <a href=" https://discord.gg/ZnFRgD6nKp">Discord Server</a></h4>
 
-My repositories are private and only accessible to a few. Contact me on discord if you wish to access a specific repository.
+My repositories are private and only accessible to a few. Contact me if you wish to access a specific repository.
+Any unknown contact will be discarded.
 
 ## Techs
 - Python, C#, C/C++, Unity, Git/GitHub, and Insomnia.
