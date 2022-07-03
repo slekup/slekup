@@ -5,7 +5,7 @@
  ```yaml
 General Util/Lang: Python, C#, C/C++, Unity, Git/GitHub/LFS, and Postman, Insomnia.
 Frontend: JavaScript, React.js, Next.js, Three.js, Framer Motion, jQuery, HTML, CSS, TailwindCSS, SASS, Bootstrap, and MUI.
-Backend: Node.js, Express.js, Discord.js, Django, PHP, MongoDB, GraphQL, mySQL.
+Backend: Node.js, Express.js, Discord.js, Django, PHP, MongoDB, GraphQL, mySQL, Docker.
 Web Services: Cloudflare, Google Cloud, Firebase, Zoho Suite, Stripe, and Paypal.
 Design: Figma, Dribbble, Adobe Illustrator, Photoshop, Premiere Pro, Lightroom and After Effects.
 Practice: Linux, Online Privacy, Ethical Hacking (the basics).
