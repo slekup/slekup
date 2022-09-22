@@ -3,15 +3,10 @@
 ### Technologies
  
  ```yaml
-General Util/Lang: Python, C#, C/C++, Unity, Git/GitHub/LFS, and Postman, Insomnia.
-Frontend: JavaScript, React.js, Next.js, Three.js, Framer Motion, jQuery, HTML, CSS, TailwindCSS, SASS, Bootstrap, and MUI.
-Backend: Node.js, Express.js, Discord.js, Django, PHP, MongoDB, GraphQL, mySQL, Docker.
-Web Services: Cloudflare, Google Cloud, Firebase, Zoho Suite, Stripe, and Paypal.
-Design: Figma, Dribbble, Adobe Illustrator, Photoshop, Premiere Pro, Lightroom and After Effects.
-Practice: Linux, Online Privacy, Ethical Hacking (the basics).
-Other Skills: Business, Product Management, UX/UI concepts.
-Games: Minecraft, Trackmania, and diep.io.
- 
+Languages: Python, C#, C/C++, JavaScript, PHP, SQL, HTML, CSS.
+Frameworks/Libraries: Node.js, React, Next.js, Express.js, Discord.js, Three.js, Framer Motion, jQuery, Django, GraphQL, TailwindCSS, SASS, Bootstrap, Material UI.
+Technologies: MongoDB, Unity, Docker, Stripe, Paypal, Google Cloud Platform, Firebase, Cloudflare.
+Tools: Figma, Post Man, Insomnia, Git/GitHub, Zoho Suite, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Filezilla.
  ```
  
 ### Repository Access
