@@ -1,4 +1,4 @@
-<h4><a href="https://aspect.cx">Old Website</a> • <a href="https://anty.aspect.cx">Anty Bot</a> • <a href="https://discord.gg/ZnFRgD6nKp">Discord Server</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com">Email Me</a></h4>
+<h4><a href="https://slekup.com">Personal Website (COMING SOON)</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com">Email Me</a></h4>
 
 ### Technologies
  
