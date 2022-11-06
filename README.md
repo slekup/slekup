@@ -11,4 +11,4 @@ Tools: Figma, Post Man, Insomnia, Git/GitHub, Zoho Suite, Adobe Illustrator, Pho
  
 ### Repository Access
 My repositories are private, but are accessible to those needing access to a specific repository.
-Soon, they will be available to those who authenticate on my personal website, there's a setting to enable Developer Mode. Developer Mode will allow you to access my Free Developer API, GitHub Repositories (via GitHub Auth), and Special Developer command within my Website Terminal. 
+Soon, they will be available to those who authenticate on my personal website, there's a setting to enable Developer Mode. Developer Mode will allow you to access all Developer Tools, including the Developer API, GitHub repositories (via GitHub Auth), and additional terminal commands. 
