@@ -3,8 +3,8 @@
 ### Technologies
  
  ```yaml
-Languages: Python, C#, C/C++, JavaScript, PHP, SQL, HTML, CSS.
-Frameworks/Libraries: Node.js, React, Next.js, Express.js, Discord.js, Three.js, Framer Motion, jQuery, Django, GraphQL, TailwindCSS, SASS, Bootstrap, Material UI.
-Technologies: MongoDB, Unity, Docker, Stripe, Paypal, Google Cloud Platform, Firebase, Cloudflare.
-Tools: Figma, Post Man, Insomnia, Git/GitHub, Zoho Suite, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Filezilla.
+Languages: TypeScript, JavaScript, Python, HTML, CSS, C, C++,PHP, SQL, C#.
+Frameworks/Libraries: Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django.
+Technologies: MongoDB, Docker, Digital Ocean, Oracle Cloud, Google Cloud, Cloudflare, Stripe, Paypal, Unity, Firebase, Heroku.
+Tools: Git/GitHub, GitKraken Adobe Illustrator, Filezilla, Trello, Figma, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
  ```
