@@ -1,14 +1,11 @@
-<h4><a href="https://slekup.com">Personal Website (COMING SOON)</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com">Email Me</a></h4>
+<h4><a href="https://slekup.com" target="_blank">Website</a> • <a href="https://discord.gg/p5rxxQN7DT" target="_blank">Discord</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com" target="_blank">Email</a></h4>
 
 ### Technologies
  
- ```yaml
-Languages: Python, C#, C/C++, JavaScript, PHP, SQL, HTML, CSS.
-Frameworks/Libraries: Node.js, React, Next.js, Express.js, Discord.js, Three.js, Framer Motion, jQuery, Django, GraphQL, TailwindCSS, SASS, Bootstrap, Material UI.
-Technologies: MongoDB, Unity, Docker, Stripe, Paypal, Google Cloud Platform, Firebase, Cloudflare.
-Tools: Figma, Post Man, Insomnia, Git/GitHub, Zoho Suite, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Filezilla.
- ```
- 
-### Repository Access
-My repositories are private, but are accessible to those needing access to a specific repository.
-Soon, they will be available to those who authenticate on my personal website, there's a setting to enable Developer Mode. Developer Mode will allow you to access my Free Developer API, GitHub Repositories (via GitHub Auth), and Special Developer command within my Website Terminal. 
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS, C, C++,PHP, SQL, C#.
+
+**Frameworks/Libraries:** Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django.
+
+**Technologies:** MongoDB, Docker, Digital Ocean, Oracle Cloud, Google Cloud, Cloudflare, Stripe, Paypal, Unity, Firebase, Heroku.
+
+**Tools:** Git/GitHub, GitKraken Adobe Illustrator, Filezilla, Trello, Figma, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
