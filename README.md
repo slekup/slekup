@@ -1,8 +1,12 @@
 <h4><a href="https://slekup.com" target="_blank">Website</a> • <a href="https://discord.gg/p5rxxQN7DT" target="_blank">Discord</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com" target="_blank">Email</a></h4>
 
+```
+I primarily use TypeScript, Rust, and Python!
+```
+
 ### Technologies
  
-**Languages:** TypeScript, JavaScript, Python, HTML, CSS, C, C++,PHP, SQL, C#.
+**Languages:** TypeScript, JavaScript, Rust, Python, HTML, CSS, C, C++,PHP, SQL, C#.
 
 **Frameworks/Libraries:** Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django.
 
