@@ -8,7 +8,7 @@ I primarily use TypeScript, Rust, and Python.
  
 **Languages:** TypeScript, Rust, Python, HTML/CSS/JS, C, C++,PHP, SQL, C#.
 
-**Frameworks/Libraries:** Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django.
+**Frameworks/Libraries:** Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Svelte, Serenity.rs.
 
 **Technologies:** MongoDB, Docker, Digital Ocean, Oracle Cloud, Google Cloud, Cloudflare, Stripe, Paypal, Unity, Firebase, Heroku.
 
