@@ -10,15 +10,17 @@ Technologies: MongoDB, Docker, Digital Ocean, Oracle Cloud, Google Cloud, Cloudf
 Tools: Git/GitHub, GitKraken Adobe Illustrator, Filezilla, Trello, Figma, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
 ```
 
-### My public open-source projects
+For small to medium sized projects, feel free to checkout my [website](https://slekup.com).
+
+### My public open-source projects (large)
 - [Open Dev Net](https://github.com/odnlabs/opendevnet)
 
-### My public close-source projects
+### My public close-source projects (large)
 - [Adonis](https://adonis.bot)
 - [Personal Website](https://slekup.com)
 - [Slekup API](https://api.slekup.com)
 
-### My NPM Packages
+### My NPM Packages (all)
 - [express-custom](https://github.com/slekup/express-custom)
 - [builder-validation](https://github.com/slekup/builder-validation)
 - [discord-advanced](https://github.com/slekup/discord-advanced)
