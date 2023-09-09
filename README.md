@@ -1,16 +1,22 @@
-<h4><a href="https://slekup.com" target="_blank">Website</a> • <a href="https://discord.gg/p5rxxQN7DT" target="_blank">Discord</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com" target="_blank">Email</a></h4>
+<h3><a href="https://slekup.com" target="_blank">Website</a> • <a href="https://discord.gg/p5rxxQN7DT" target="_blank">Discord</a> • <a href="mailto:slekupvimplyrataqq@protonmail.com" target="_blank">Email</a></h3>
 
-I primarily use TypeScript, Rust, and Python.
+I primarily use Rust, TypeScript, and Python.
 
-### Technologies
+### Focused Technologies
  ```yml
-Languages: TypeScript, Rust, Python, HTML/CSS/JS, C, C++,PHP, SQL, C#.
-Frameworks/Libraries: Node.js, React.js, Next.js, Express.js, Discord.js, WebSocket, Redux, TailwindCSS, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Svelte, Serenity.rs.
-Technologies: MongoDB, Docker, Digital Ocean, Oracle Cloud, Google Cloud, Cloudflare, Stripe, Paypal, Unity, Firebase, Heroku.
-Tools: Git/GitHub, GitKraken Adobe Illustrator, Filezilla, Trello, Figma, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
+Languages: TypeScript, Rust, Python, SQL.
+Frameworks/Libraries: Axum, Express.js, React/Next.js, Svelte/SvelteKit, Discord.js, TailwindCSS.
+Other Technologies: Postgres, MongoDB, Docker, Oracle Cloud, Cloudflare, Stripe.
+Tools: Git/GitHub, Trello, Figma.
 ```
 
-For small to medium sized projects, feel free to checkout my [website](https://slekup.com).
+### Additional/Full Technologies
+ ```yml
+Languages: HTML/CSS/JS, C, C++, PHP, C#.
+Frameworks/Libraries: SQLX, Node.js, WebSocket, Redux, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Serenity.rs.
+Other Technologies: Digital Ocean, Google Cloud, Paypal, Unity, Firebase, Heroku.
+Tools: GitKraken, Adobe Illustrator, Filezilla, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
+```
 
 ### My public open-source projects (large)
 - [Open Dev Net](https://github.com/odnlabs/opendevnet)
@@ -19,6 +25,9 @@ For small to medium sized projects, feel free to checkout my [website](https://s
 - [Adonis](https://adonis.bot)
 - [Personal Website](https://slekup.com)
 - [Slekup API](https://api.slekup.com)
+
+> [!NOTE]
+> For small to medium sized projects, feel free to checkout my [website](https://slekup.com).
 
 ### My NPM Packages (all)
 - [express-custom](https://github.com/slekup/express-custom)
