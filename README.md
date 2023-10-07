@@ -26,8 +26,12 @@ Tools: GitKraken, Adobe Illustrator, Filezilla, After Effects, Zoho Suite (mail)
 - [Personal Website](https://slekup.com)
 - [Slekup API](https://api.slekup.com)
 
-> [!NOTE]
+<br>
+
+> [!IMPORTANT]
 > For small to medium sized projects, feel free to checkout my [website](https://slekup.com).
+
+<br>
 
 ### My NPM Packages (all)
 - [express-custom](https://github.com/slekup/express-custom)
