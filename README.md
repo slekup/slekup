@@ -5,7 +5,7 @@
 Languages: Rust, TypeScript, Python, SQL.
 Frameworks/Libraries: Axum, Express.js, React/Next.js, Svelte/SvelteKit, Discord.js, TailwindCSS.
 Other Technologies: Postgres, MongoDB, Docker, Oracle Cloud, Cloudflare, Stripe.
-Tools: Git/GitHub, Trello, Figma.
+Tools: Bazel, Nx, Turborepo, Git/GitHub, Trello, Figma.
 ```
 
 ### Additional/Full Technologies
