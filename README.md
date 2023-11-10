@@ -11,7 +11,7 @@ Tools: Bazel, Nx, Turborepo, Git/GitHub, Trello, Figma.
 ### Additional/Full Technologies
  ```yml
 Languages: HTML/CSS/JS, C, C++, PHP, C#.
-Frameworks/Libraries: SQLX, Node.js, WebSocket, Redux, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Serenity.rs.
+Frameworks/Libraries: SQLX, Node.js, WebSocket, Redux, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Serenity.rs, Twilight.rs.
 Other Technologies: Digital Ocean, Google Cloud, Paypal, Unity, Firebase, Heroku.
-Tools: GitKraken, Adobe Illustrator, Filezilla, After Effects, Zoho Suite (mail), Photoshop, Premiere Pro, Postman, Insomnia.
+Tools: GitKraken, Adobe Illustrator, FileZilla, After Effects, Photoshop, Premiere Pro, Postman, Insomnia.
 ```
