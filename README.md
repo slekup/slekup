@@ -2,16 +2,27 @@
 
 ### Primary Technologies
  ```yml
-Languages: Rust, TypeScript, Python, SQL.
-Frameworks/Libraries: Axum, Express.js, React/Next.js, Svelte/SvelteKit, Discord.js, TailwindCSS.
-Other Technologies: Postgres, MongoDB, Docker, Oracle Cloud, Cloudflare, Stripe.
-Tools: Bazel, Nx, Turborepo, Git/GitHub, Trello, Figma.
+Languages: Rust, TypeScript, Python, Go, C, C++.
+Frameworks: Axum, Express.js, React/Next.js, Svelte/SvelteKit, TailwindCSS.
+Databases: SQL, Postgres, MongoDB, Redis.
+Build Tools: Docker, Bazel, Nx, Turborepo.
+Integrations: GitHub, Stripe.
 ```
 
-### Additional/Full Technologies
- ```yml
-Languages: HTML/CSS/JS, C, C++, PHP, C#.
-Frameworks/Libraries: SQLX, Node.js, WebSocket, Redux, Three.js, Bootstrap jQuery, GraphQL, SASS, Material UI, Django, Serenity.rs, Twilight.rs.
-Other Technologies: Digital Ocean, Google Cloud, Paypal, Unity, Firebase, Heroku.
-Tools: GitKraken, Adobe Illustrator, FileZilla, After Effects, Photoshop, Premiere Pro, Postman, Insomnia.
-```
+<details>
+<summary>Full Tech List</summary>
+<pre lang="yaml">
+Languages: HTML, CSS, JavaScript, PHP, C#.
+Rust Libraries: Serenity, Twilight, sqlx.
+JavaScript Libraries: Redux, Three.js, jQuery, GraphQL, Discord.js.
+Testing Libraries: Jest, Vitepress, Playwright.
+UI Libraries: SASS, MUI, Bootstrap.
+Engines: Unity.
+Code Editors: VS Code, NeoVim, Sublime Text 3, Atom.
+Online Services: Cloudflare.
+Hosting: Oracle Cloud, Google Cloud, Firebase, Digital Ocean, Heroku.
+Development Tools: Git, GitKraken, Trello, Postman, Insomnia.
+Other Tools: Figma, Adobe Illustrator, FileZilla, After Effects, Photoshop, Premiere Pro.
+Operating Systems: Windows, Ubuntu, Kali Linux, CentOS.
+</pre>
+</details>
