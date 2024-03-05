@@ -1,5 +1,3 @@
-AI, Web, CLI, and app developer.
-
 <h4><a href="https://slekup.com" target="_blank">Website</a>&nbsp; • &nbsp;<a href="https://discord.gg/p5rxxQN7DT" target="_blank">Discord</a>&nbsp; • &nbsp;<a href="https://github.com/odnlabs" target="_blank">Open Dev Net</a></h4>
 
 ### Primary Technologies
